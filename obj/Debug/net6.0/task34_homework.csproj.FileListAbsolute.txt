@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\bin\Debug\net6.0\task34_homework.exe
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\bin\Debug\net6.0\task34_homework.deps.json
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\bin\Debug\net6.0\task34_homework.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\bin\Debug\net6.0\task34_homework.dll
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\bin\Debug\net6.0\task34_homework.pdb
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\task34_homework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\task34_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\task34_homework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\task34_homework.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\task34_homework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\task34_homework.dll
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\refint\task34_homework.dll
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\task34_homework.pdb
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\task34_homework.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\Seminar5\task34_homework\obj\Debug\net6.0\ref\task34_homework.dll
